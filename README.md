@@ -5,22 +5,15 @@ Neo Dijkstra
 
 12.1. bis 23.2.2024
 
-Grob-Planung
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-Was wäre ein geeignetes Projekt würd diese LP3?
-12.1.2024
-✍️ Heute habe ich... (50-100 Wörter)
+## Grob-Planung
+Meine bisherigen schulischen Leistungen in Informatik sind leider nicht so gut, mit einem Durchschnitt von 2,75. Das ist besonders problematisch, da Informatik mein wichtigstes Fach ist. Auch im Modul 319 habe ich schlecht geleistet. Um meine Noten zu verbessern, muss ich meine Disziplin stärken, aber ich bin unsicher, wie ich das genau umsetzen kann. Ich bin überzeugt, dass es für meine Programmierfähigkeiten hilfreich wäre, weniger komplex zu denken und einfach anfangen, kleine Teile des Programms zu machen.
 
 19.1.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-1				
-...				
-4				
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+[ ] Rechner mit 2 Funktionen (1 Input, 2 Outputs)
+[ ] Rechner mit eine Variable Funktion
+[ ] Programm mit verschiedene Winforms Fenster
+	
+✍️ Heute am 19.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
