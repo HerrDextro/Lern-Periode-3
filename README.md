@@ -22,6 +22,8 @@ Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 19.1.2024
 
 # Zusammenfassung 19.1.2024
+Heute habe ich meinen Taschenrechner fertig gemacht und ein paar neue Funktionen gelernt, die ich jetzt in meinen Motorenrechner einbauen möchte. Auch habe ich ein Paar Operatoren, nämlich  'LIKE a%' und 'AND' in SQL geübt weil es im Quiz schiend dass ich gar nichts von sie wusste. Ich habe gemerkt, dass es noch viel gibt, was ich über SQL lernen kann. Es war ein voller Tag, aber es hat mit gut gemacht, Neues auszuprobieren.
+
 [ ] Kleiner Taschenrechner "Putzen"
 [ ] Rechner mit 2 Funktionen (1 Input, 2 Outputs)
 [ ] Rechner mit eine Variable Funktion
