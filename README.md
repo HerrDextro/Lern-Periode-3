@@ -50,6 +50,13 @@ Heute habe ich meinen Taschenrechner so ungefähr fertig programmiert, Ich muss 
 [x] Taschenrechner hat jetzt .Clear nach eine Zahl, statt dass die Zahl bleibt.
 [ ] Gewehr (und Sturmhaube) für mein Unity Spiel Character inkl. Code für das Gewehr und Ziele, worauf man schiessen kann.
 
+
+
+
+
+
+
+
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 5				
 7	Spiel gestartet, Schlange lang genug, dass sie sich beissen kann	Schlange beisst sich selber	Spiel endet	
