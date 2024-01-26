@@ -25,9 +25,9 @@ Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 Heute habe ich meinen Taschenrechner fertig gemacht und ein paar neue Funktionen gelernt, die ich jetzt in meinen Motorenrechner einbauen möchte. Auch habe ich ein Paar Operatoren, nämlich  'LIKE a%' und 'AND' in SQL geübt weil es im Quiz schiend dass ich gar nichts von sie wusste. Ich habe gemerkt, dass es noch viel gibt, was ich über SQL lernen kann. Es war ein voller Tag, aber es hat mit gut gemacht, Neues auszuprobieren.
 
 [ ] Kleiner Taschenrechner "Putzen"
-[ ] Rechner mit 2 Funktionen (1 Input, 2 Outputs)
+[x] Rechner mit 2 Funktionen (1 Input, 2 Outputs)
 [ ] Rechner mit eine Variable Funktion
-[ ] Programm mit verschiedene Winforms Fenster (erste verschwindet wenn 2e gewählt wird)
+[x] Programm mit verschiedene Winforms Fenster (erste verschwindet wenn 2e gewählt wird)
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 4				
@@ -35,18 +35,34 @@ Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 6				
 
 
+
+
+
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 26.1.2024
-[ ] Spiel endet, wenn Schlange sich selber beisst
-[ ] Daten in Graph umwandler
-[ ] Template generator (generiert linien auf Papier, warscheinlich mit der API eines Webistes)
+
+# Zusammenfassung 26.1.2024
+Heute habe ich meinen Taschenrechner so ungefähr fertig programmiert, Ich muss nur nich die Button Namen verändern, damit sie mit die Zahlen übereinstimmen(Button15=Wert 7). Sonst habe ich angefangen, ein simples Pong zu programmieren damit ich lernen kann wie Forms mit mehrere fenster zu machen (wichtig für mein Turbinenrechner) und auch wie ich die Bewegung und detection von objekte machen kann (wichtig für mein Unity game). Ich wird der Taschenrechner also so schnell wie möglich ganz fertigmachen, und dann muss ich über die Ferien auch mein pong und mein Turbinenrechner fertig programmieren. Was mir noch fehlt in Pong ist die Bewegung der Paddles, Bewegung der Ball und ein paar constraints damit der Ball nicht auf ungewohne Plätze generiert wird.
+
+[x] Taschenrechner fertig
+[x] Pong Paddles gehen nicht out of bounds
+[x] Taschenrechner hat jetzt .Clear nach eine Zahl, statt dass die Zahl bleibt.
 [ ] Gewehr (und Sturmhaube) für mein Unity Spiel Character inkl. Code für das Gewehr und Ziele, worauf man schiessen kann.
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 5				
 7	Spiel gestartet, Schlange lang genug, dass sie sich beissen kann	Schlange beisst sich selber	Spiel endet	
 8				
+
+
+
+
+
+
+
+
+
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
